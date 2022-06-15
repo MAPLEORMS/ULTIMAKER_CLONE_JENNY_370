@@ -1,7 +1,7 @@
 
 # Notice!
 
-My Tevo Tarantula has died and I am replacing it with a Prusa Mk3S+. Consequently,
+My jenny 370  motherboard and display has died and I am replacing it with a MKS_GEEN L V1.0 and REPRAP smart controller. Consequently,
 I am no longer maintaining or updating this repository. I will leave it in place should
 anyone wish to fork it (I know a few people have already) and do their own thing with it.
 
@@ -9,7 +9,7 @@ Y'all have fun now!
 
 ============================================================================
 
-__Configured for MY Tevo Tarantula. It works for me, it may not work for you!__
+__Configured for MY jenny 370. It works for me, it may not work for you!__
 
 Open configuration.h file in a text editor and make the changes at the top (EasyConfig)
 section of the file. You should not have to make any other changes.
